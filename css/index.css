@@ -1,0 +1,177 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-09 14:56:12
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-16 16:29:15
+*/
+body{
+	background:pink ;
+}
+.zheng{
+	width: 450px;
+	height: 914px;
+	background: white;
+	
+	border-radius: 55px;
+	position: relative;
+	box-shadow:0 0 10px 2px #000 inset;
+	float: left;
+}
+.top{
+	width: 100%;
+    height: 92px;
+    background: white;
+border-top-left-radius: 55px;
+    border-top-right-radius: 55px;
+    box-shadow:0 0 10px 2px #000 inset;
+    position: relative;
+}
+.center{
+	width: 410px;
+	height: 724px;
+	background: black;
+	margin: 0 auto;
+}
+.honor{
+	width: 67px;
+	height: 16px;
+	color: #878590;
+	font-family: 宋体;
+	font-size: 40px;
+	margin: 20px 0 0 180px;
+}
+.zuo{
+	width: 13px;
+	height: 13px;
+	background: #000;
+	border-radius: 50%;
+	position: absolute;
+	top: 30px;
+	left: 100px;
+}
+.zhong{
+	width: 11px;
+	height: 11px;
+	background: black;
+	border-radius: 50%;
+	position: absolute;
+	top: 30px;
+	left: 150px;
+}
+.you{
+	width: 53px;
+	height: 6px;
+	background: black;
+	position: absolute;
+	top: 32px;
+	left: 200px;
+	border-radius: 30px;
+}
+.box{
+	width: 4px;
+	height: 84px;
+	background: #b3b2ba;
+	position: absolute;
+	right: -4px;
+	top: 125px;
+	border-radius: 30px;
+}
+.box1{
+	width: 3px;
+	height: 42px;
+	background: #b3b2ba;
+	position: absolute;
+	right: -3px;
+	top: 240px;
+	border-radius: 30px;
+}
+.fan{
+	width: 450px;
+	height: 914px;
+	background: white;
+	margin-left: 500px;
+	border-radius: 55px;
+	/* position: relative; */
+	
+	
+}
+.fantop{
+	width: 100%;
+    height: 92px;
+    background: #dbdbe3;
+    border-top-left-radius: 55px;
+    border-top-right-radius: 55px;
+    overflow: hidden;
+    
+}
+.yi{
+	width:27px;
+	height: 27px;
+	margin:20px 0 0 50px;
+	float: left;
+}
+.er{
+	width:27px;
+	height: 27px;
+	margin:20px 0 0 100px;
+	
+
+}
+.san{
+	width:27px;
+	height: 27px;
+     margin:-25px 0 0 150px;
+     f
+}
+.si{
+width:27px;
+	height: 27px;
+	margin:-25px 0 0 200px;
+	float: left;
+}
+.fancenter{
+	width: 100%;
+	height: 724px;
+	background: #dbdbe3;
+	margin: 0 auto;
+	/* position: absolute; */
+	overflow: hidden;
+}
+.zhiwen{
+	width: 55px;
+	height: 55px;
+	
+	border-radius: 50%;
+	margin-left:197.5px ;
+	margin-top: 100px;
+	border: 1px solid #0f1012;
+}
+ .honor1{
+	width: 84px;
+	height: 22px;
+	
+	font-family: 宋体;
+	font-size: 60px;
+	margin: 450px 0 0 150px;
+
+	/* position: relative; */
+	
+} 
+  .fanbottom{
+     width: 100%;
+    height: 100px;
+    background: #dbdbe3;
+    
+    border-bottom-left-radius: 55px;
+    border-bottom-right-radius: 55px;
+    
+}  
+.zhushi{
+	width: 355px;
+	height: 7px;
+	color: black;
+	font-family: 宋体;
+	font-size: 5px;
+	margin: 0 auto;
+
+}
